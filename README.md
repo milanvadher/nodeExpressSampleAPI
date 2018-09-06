@@ -1,9 +1,5 @@
 # Node-Express Sample Rest API
 
-[![NPM Version][npm-image]]
-[![Express Version][npm-image]]
-
-
 ## Requirement
 
 * **Node.js**
@@ -18,7 +14,7 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 
-## For user this project
+## For use this project
 
 ```bash
 $ git clone https://github.com/milanvadher/nodeExpressSampleAPI.git
